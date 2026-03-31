@@ -91,3 +91,7 @@ Improve dataset size
 Build a web-based application
 
 ----
+
+Dataset not included due to size limitations.
+Download from Kaggle:
+(Fake and Real News Dataset)
